@@ -3,7 +3,7 @@ title: Cool-core galaxy cluster
 summary: An example of using the in-built project page.
 tags:
   - IllustrisTNG
-  - TNGCluster
+  - TNG-Cluster
   - ICM 
 date: '2016-04-27T00:00:00Z'
 
