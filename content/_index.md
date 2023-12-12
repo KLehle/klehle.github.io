@@ -67,16 +67,16 @@ sections:
       title: Tags
     design:
       columns: '2'
-  #- block: contact
-  #  id: contact
-  #  content:
-  #    title: Contact
-  #    subtitle:
-  #    text: ''
-  #    # Contact (add or remove contact options as necessary)
-  #    email: k.lehle@stud.uni-heidelberg.de
-  #    phone: ''
-  #    appointment_url: ''
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: ''
+      # Contact (add or remove contact options as necessary)
+      email: k.lehle@stud.uni-heidelberg.de
+      phone: ''
+      appointment_url: ''
   #    address:
   #      street: Albert-Ueberle Straße 3-5
   #      city: Heidelberg
