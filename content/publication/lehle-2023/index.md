@@ -15,7 +15,7 @@ publication: '*arXiv*'
 abstract: 'We analyze the physical properties of the gaseous intracluster medium (ICM)
   at the center of massive galaxy clusters with TNGCluster, a new cosmological magnetohydrodynamical
   simulation. Our sample contains 352 simulated clusters spanning a halo mass range
-  of 10^14 < M500c/Msun < 2 x 10^15 at z = 0. We focus on the proposed classification
+  of 1e14 < M500c/Msun < 2 x 1e15 at z = 0. We focus on the proposed classification
   of clusters into cool-core (CC) and non-cool-core (NCC) populations, the z = 0
   distribution of cluster central ICM properties, and the redshift evolution of the
   CC cluster population. We analyze resolved structure and radial profiles of entropy,
