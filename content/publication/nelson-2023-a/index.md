@@ -17,8 +17,8 @@ publication: '*arXiv*'
 abstract: 'We introduce the new TNG-Cluster project, an addition to the IllustrisTNG
   suite of cosmological magnetohydrodynamical simulations of galaxy formation. Our
   objective is to significantly increase the statistical sampling of the most massive
-  and rare objects in the Universe: galaxy clusters with log ($푀$200c/M$ødot$) $≳$
-  14.3 - 15.4 at $푧$ = 0. To do so, we re-simulate 352 cluster regions drawn from
+  and rare objects in the Universe: galaxy clusters with log (M200c/Msun) ≳
+  14.3 - 15.4 at z = 0. To do so, we re-simulate 352 cluster regions drawn from
   a 1 Gpc volume, thirty-six times larger than TNG300, keeping entirely fixed the
   IllustrisTNG physical model as well as the numerical resolution. This new sample
   of hundreds of massive galaxy clusters enables studies of the assembly of high-mass
