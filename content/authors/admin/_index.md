@@ -31,7 +31,7 @@ bio: I am a PhD student studying the gaseous content in the core of simulated ga
 interests:
   - Intracluster medium
   - (Cool-core) galaxy clusters
-  - (Cosmological) hydrodynamical simulations
+  - Cosmological hydrodynamical simulations
 
 # Education to show in About widget
 education:
@@ -48,24 +48,24 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
+#skills:
+#  - name: ''
+#    items:
+#      - name: ''
+#        description: ''
+#        percent: ''
+#        icon: ''
+#        icon_pack: ''
       
-  - name: Hobbies
-    color: ''
-    color_border: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
+#  - name: Hobbies
+#    color: ''
+#    color_border: ''
+#    items:
+#      - name: ''
+#        description: ''
+#        percent: ''
+#        icon: ''
+#        icon_pack: ''
       
 
 # Social/Academic Networking
