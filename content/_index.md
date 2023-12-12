@@ -42,7 +42,9 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: |-
+      text: A complete list of projects I have contributed to can be found on [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Lehle%2C%20Katrin%22&sort=date%20desc%2C%20bibcode%20desc)
+      
+        -
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
