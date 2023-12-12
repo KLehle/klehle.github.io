@@ -14,7 +14,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -28,8 +28,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: ICM
+          tag: ICM
         - name: Other
           tag: Demo
     design:
@@ -39,6 +39,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -77,13 +78,13 @@ sections:
       email: k.lehle@stud.uni-heidelberg.de
       phone: ''
       appointment_url: ''
-  #    address:
-  #      street: Albert-Ueberle Straße 3-5
-  #      city: Heidelberg
-  #      region: ''
-  #      postcode: '69120'
-  #      country: Germany
-  #      country_code: ''
+      address:
+        street: Albert-Ueberle Straße 3-5
+        city: Heidelberg
+        region: 'BW'
+        postcode: '69120'
+        country: Germany
+        country_code: 'DE'
   #    # Choose a map provider in `params.yaml` to show a map from these coordinates
   #    coordinates:
   #      latitude: '49.41440'
