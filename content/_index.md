@@ -86,38 +86,38 @@ sections:
       title: Tags
     design:
       columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: ''
-      # Contact (add or remove contact options as necessary)
-      email: k.lehle@stud.uni-heidelberg.de
-      phone: ''
-      appointment_url: ''
-      address:
-        street: Albert-Ueberle Straße 3-5
-        city: Heidelberg
-        region: ''
-        postcode: '69120'
-        country: Germany
-        country_code: ''
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '49.41440'
-        longitude: '8.69454'  
-      contact_links: ''
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+  #- block: contact
+  #  id: contact
+  #  content:
+  #    title: Contact
+  #    subtitle:
+  #    text: ''
+  #    # Contact (add or remove contact options as necessary)
+  #    email: k.lehle@stud.uni-heidelberg.de
+  #    phone: ''
+  #    appointment_url: ''
+  #    address:
+  #      street: Albert-Ueberle Straße 3-5
+  #      city: Heidelberg
+  #      region: ''
+  #      postcode: '69120'
+  #      country: Germany
+  #      country_code: ''
+  #    # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #    coordinates:
+  #      latitude: '49.41440'
+  #      longitude: '8.69454'  
+  #    contact_links: ''
+  #    # Automatically link email and phone or display as text?
+  #    autolink: true
+  #    # Email form provider
+  #    form:
+  #      provider: netlify
+  #      formspree:
+  #        id:
+  #      netlify:
+  #        # Enable CAPTCHA challenge to reduce spam?
+  #        captcha: false
+  #  design:
+  #    columns: '2'
 ---
