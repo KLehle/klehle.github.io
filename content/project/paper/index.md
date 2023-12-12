@@ -1,17 +1,18 @@
 ---
 title: Cool-core galaxy cluster
-summary: An example of using the in-built project page.
+summary: Demographics and metamorphosis of cool-core vs non-cool-core galaxy clusters.
 tags:
   - IllustrisTNG
   - TNG-Cluster
   - ICM 
-date: '2016-04-27T00:00:00Z'
+  - Cool-core
+date: '2023-12-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Cores of galaxy cluster in TNG-Cluster
   focal_point: Smart
 
 #links:
