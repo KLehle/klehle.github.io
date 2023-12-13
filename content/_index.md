@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: biography #??? remove about
+  - block: about.biography #??? remove about
     id: about
     content:
       title: Biography
