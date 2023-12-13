@@ -5,7 +5,7 @@ tags:
   - IllustrisTNG
   - TNG-Cluster
   - ICM 
-  - Cool-core
+  - cool-cores
 date: '2023-12-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

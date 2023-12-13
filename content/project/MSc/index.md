@@ -6,6 +6,10 @@ summary: Modelling Cosmic Reionization With Resummed Kinetic Field Theory
 # Optional external URL for project (replaces project detail page).
 #external_link: https://example.org
 
+tags:
+  - Reionization
+  - analytical
+
 image:
    caption: An AI's impression of my MSc thesis 
    focal_point: Smart
