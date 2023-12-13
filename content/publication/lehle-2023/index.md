@@ -40,7 +40,7 @@ tags:
 - Astrophysics - Cosmology and Nongalactic Astrophysics
 - TNG-Cluster
 - ICM
-- cool-core
+- cool-cores
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.06333

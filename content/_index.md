@@ -5,12 +5,16 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
+  - block: biography #??? remove about
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: ''
   - block: portfolio
     id: projects
     content:
