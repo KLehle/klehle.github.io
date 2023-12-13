@@ -11,8 +11,8 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      banner:
+    
+    banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         image: 'AquaForestSmall.jpg'
   - block: portfolio
