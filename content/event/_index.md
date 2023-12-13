@@ -11,5 +11,5 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
-  image: AquaForrestSmall.jpg
+  image: AquaMohn1Small.jpg
 ---
