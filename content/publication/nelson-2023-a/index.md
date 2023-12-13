@@ -34,7 +34,13 @@ abstract: 'We introduce the new TNG-Cluster project, an addition to the Illustri
 tags:
 - Astrophysics - Astrophysics of Galaxies
 - Astrophysics - Cosmology and Nongalactic Astrophysics
+- TNG-Cluster
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.06338
+
+image:
+  caption: 'Nelson+2023'
+  focal_point: ""
+  preview_only: false
 ---

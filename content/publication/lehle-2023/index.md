@@ -38,7 +38,14 @@ abstract: 'We analyze the physical properties of the gaseous intracluster medium
 tags:
 - Astrophysics - Astrophysics of Galaxies
 - Astrophysics - Cosmology and Nongalactic Astrophysics
+- TNG-Cluster
+- ICM
+- cool-core
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.06333
+image:
+  caption: 'Lehle+2023'
+  focal_point: ""
+  preview_only: false
 ---
