@@ -51,7 +51,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: content/slides/Talk_MultiphaseMedia_Kochel052023.pdf
+slides: 'content/slides/Talk_MultiphaseMedia_Kochel052023.pdf'
 #"Kochel2023Slides"
 
 # Projects (optional).
