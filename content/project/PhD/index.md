@@ -38,9 +38,9 @@ In particular, X-ray observations of the ICM reveal that the central cooling tim
 
 In my ongoing project, I delve into the distinctive properties of clusters with and without cool cores. Our goal is to discern how core properties in a large sample of simulated galaxy clusters correlate with cluster mass and redshift. Additionally, we explore the internal (radial) structure of these clusters. The overarching aim is to ascertain whether clusters with cool cores and those without represent discrete classes or merely extremes within a continuous spectrum.
 
-![Histogram of core properties.](/content/project/PhD/fCCVspaper2.png)
+![Histogram of core properties.](fCCVspaper2.png)
 
-![Literuature](/images/HistogramCCcritOriginal_sn99_colorM500_dataAS17.png)
+![Literature](images/HistogramCCcritOriginal_sn99_colorM500_dataAS17.png)
 
 However, our inquiry extends beyond statistical properties; we want to develop understanding of the transformative mechanisms between cool-core and non-cool-core clusters. What events lead to the transition from a cool-core to a non-cool-core cluster?
 Do we find in our sample also clusters that transiotion from a NCC to a CC?
