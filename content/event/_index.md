@@ -9,7 +9,9 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: AquaMohn1Small.jpg
+#header:
+banner:
+  caption: 'rets'
+  image: 'AquaMohn1Small.jpg'
+
 ---
