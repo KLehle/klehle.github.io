@@ -1,6 +1,7 @@
 ---
 title: Bachelor's Thesis
 summary: Dynamical Models for Centaurus A
+date: '2019-03-14T00:00:00Z'
 
 
 tags:
