@@ -11,7 +11,12 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 #header:
 banner:
+  image: 'media/AquaForestSmall.jpg'
   caption: 'rets'
-  image: 'media/AquaMohn1Small.jpg'
+  
+
+#banner:
+#  image: 'header.png'
+#  caption: 'Image'
 
 ---
