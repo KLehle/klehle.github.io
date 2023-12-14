@@ -34,8 +34,8 @@ sections:
           tag: '*'
         - name: ICM
           tag: ICM
-        - name: Other
-          tag: Other
+        #- name: Other
+        #  tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -85,7 +85,7 @@ sections:
       phone: ''
       appointment_url: ''
       address:
-        street: Albert-Ueberle Straße 3-5
+        street: Albert-Ueberle Straße 2
         city: Heidelberg
         region: 'BW'
         postcode: '69120'
