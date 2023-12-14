@@ -12,6 +12,6 @@ view: 2
 #header:
 banner:
   caption: 'rets'
-  image: 'AquaMohn1Small.jpg'
+  image: 'media/AquaMohn1Small.jpg'
 
 ---
