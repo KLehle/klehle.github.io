@@ -14,7 +14,7 @@ sections:
     
     banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-      image: AquaForestSmall.jpg
+      image: 'AquaForestSmall.jpg'
       caption: 'tet'
   - block: portfolio
     id: projects
