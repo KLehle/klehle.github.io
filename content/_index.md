@@ -12,9 +12,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
-    #banner:
+    banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-      image: media/AquaForestSmall.jpg
+      image: AquaForestSmall.jpg
+      caption: 'tet'
   - block: portfolio
     id: projects
     content:
