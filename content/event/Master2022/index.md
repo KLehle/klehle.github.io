@@ -1,7 +1,7 @@
 ---
 title: Modelling Cosmic Reionization With Resummed Kinetic Field Theory
 
-event: Presentation of Master's Thesis
+event: Presentation of Master Thesis
 event_url: ''
 
 location: Institute for Theoretical Physics
