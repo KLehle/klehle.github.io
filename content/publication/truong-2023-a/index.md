@@ -21,7 +21,7 @@ abstract: 'The intracluster medium (ICM) of galaxy clusters encodes the impact o
   clusters with a new simulation suite: TNG-Cluster. We first make a selection of
   simulated clusters similar to Perseus based on total mass and inner ICM properties,
   i.e. cool-core nature. We identify 30 Perseus-like systems among the 352 TNG-Cluster
-  halos at $푧$ = 0. Many exhibit thermodynamical profiles and X-ray morphologies with
+  halos at z = 0. Many exhibit thermodynamical profiles and X-ray morphologies with
   disturbed features such as ripples, bubbles and shock fronts that are qualitatively
   similar to X-ray observations of Perseus. To study observable gas motions, we generate
   XRISM mock X-ray observations and conduct a spectral analysis of the synthetic data.

@@ -94,5 +94,5 @@ highlight_name: true
 ---
 
 Hey, I am Katrin Lehle, a current PhD candidate at the Institute for Theoretical Astrophysics, Heidelberg University. Under the guidance of [Dylan Nelson](https://www.ita.uni-heidelberg.de/~dnelson/), I hold a position funded by the [Hector-Fellow-Academy](https://hector-fellow-academy.de/en/). Additionally, I am a fellow at the International Max Planck Research School for Astronomy and Cosmic Physics in Heidelberg.
-My research focus is centered on the gaseous intracluster medium (ICM) within galaxy clusters, with a particular emphasis on the central region and the cooling properties of the cores. To gain insight into the complex physics of galaxy clusters, I analyze cosmological galaxy formation simulations.
+My research focus is centered on the gaseous intracluster medium (ICM) within galaxy clusters, with a particular emphasis on the central region and the cooling properties of the cores. To gain insight into the complex physics of galaxy clusters, I analyze cosmological galaxy formation simulations such as [TNG-Cluster](https://www.tng-project.org/cluster/) and [IllustrisTNG](https://www.tng-project.org).
 {style="text-align: justify;"}
