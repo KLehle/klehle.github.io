@@ -1,7 +1,7 @@
 ---
 title: Modelling Cosmic Reionization With Resummed Kinetic Field Theory
 
-event: Presentation of Master Thesis
+event: Presentation of Master's Thesis
 event_url: ''
 
 location: Institute for Theoretical Physics
@@ -13,7 +13,7 @@ address:
   country: Germany
 
 summary: ''
-abstract: 'In this talk I present the results of my Masters Thesis. I summarize the idea of including baryons in KFT and the basics of RKFT. Furthermore, I will summarize the model used to include the effects of ionizing photons into RKFT to describe the Epoch of Reionization. I will present the results of this model in static and expaning spacetime and finally compute the 21cm power spectrum of this model.'
+abstract: In this talk I present the results of my Master's Thesis. I summarize the idea of including baryons in KFT and the basics of RKFT. Furthermore, I will summarize the model used to include the effects of ionizing photons into RKFT to describe the Epoch of Reionization. I will present the results of this model in static and expaning spacetime and finally compute the 21cm power spectrum of this model.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
