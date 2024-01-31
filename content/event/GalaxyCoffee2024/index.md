@@ -13,7 +13,8 @@ address:
   country: Germany
 
 summary: ''
-abstract: 'In this talk I present the results of our [recent paper](https://klehle.github.io/publication/lehle-2023/).'
+abstract: 'In this talk I present the results of our [recent paper](https://klehle.github.io/publication/lehle-2023/).
+[recent paper](../../publication/lehle-2023/index.md)'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
