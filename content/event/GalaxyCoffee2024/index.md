@@ -1,5 +1,5 @@
 ---
-title: 'Cool-Core Demographics Unveiled: Insights From TNG-Cluster'
+title: 'Cool-Core Demographics: Insights From TNG-Cluster'
 
 event: Galaxy Coffee 
 event_url: 
