@@ -1,10 +1,10 @@
 ---
 title: 'Cool-Core Demographics Unveiled: Insights From TNG-Cluster'
 
-event: Modelling of Multiphase Astrophysical Media
-event_url: https://wwwmpa.mpa-garching.mpg.de/conf/multiphase2023/
+event: Galaxy Coffee 
+event_url: 
 
-location: Max-Planck-Institute for Astronomy, Heidelberg
+location: Max-Planck-Institute for Astronomy
 address:
   street: ''
   city: Heidelberg
